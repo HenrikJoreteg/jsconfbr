@@ -1,0 +1,11 @@
+{
+  "name": "jsconfbr",
+  "version": "0.0.0",
+  "description": "A sweet signaling demo",
+  "main": "server.js",
+  "author": "Henrik Joreteg",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": ""
+  }
+}
